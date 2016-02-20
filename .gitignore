@@ -10,6 +10,7 @@
 /vendor/
 /bin/
 /composer.phar
-/nbproject/private/
-nbproject
-/db.php
+core
+nbproject/*
+!nbproject/project.properties
+!nbproject/project.xml
